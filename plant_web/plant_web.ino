@@ -19,7 +19,7 @@
 
 // Soil calibration: raw A0 reading in air (dry) and in water (wet)
 const int SOIL_RAW_DRY = 1024;
-const int SOIL_RAW_WET = 350;
+const int SOIL_RAW_WET = 280;
 
 const int SOIL_DIGITAL_PIN = D0;
 const int DHT_PIN = D7;
